@@ -7,14 +7,12 @@
   Version: 2.2.0
 
 - Class: text
-  Output: In this lesson, we will explore some basic building blocks of the R programming
+  Output: In dieser Sitzung geht es um Grundbausteine der R-Programmierung
     language.
 
 - Class: text
-  Output: If at any point you'd like more information on a particular topic related
-    to R, you can type help.start() at the prompt, which will open a menu of resources
-    (either within RStudio or your default web browser, depending on your setup).
-    Alternatively, a simple web search often yields the answer you're looking for.
+  Output: Hilfe bekommt man durch die Eingabe von help.start() an der
+    Eingabeaufforderung. Auch eine normale Suchabfrage im Netz kann helfen.
 
 - Class: cmd_question
   Output: In its simplest form, R can be used as an interactive calculator. Type
