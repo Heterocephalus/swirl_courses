@@ -10,13 +10,8 @@
   Output: In dieser Sitzung geht es um Grundbausteine der R-Programmierung
     language.
 
-- Class: text
-  Output: Hilfe bekommt man durch die Eingabe von help.start() an der
-    Eingabeaufforderung. Auch eine normale Suchabfrage im Netz kann helfen.
-
 - Class: cmd_question
-  Output: In its simplest form, R can be used as an interactive calculator. Type
-    5 + 7 and press Enter.
+  Output: '1. Tippe 5 + 7 und dann die Eingabetaste.'
   CorrectAnswer: 5 + 7
   AnswerTests: omnitest(correctExpr='5 + 7')
   Hint: Type 5 + 7 and press Enter.
